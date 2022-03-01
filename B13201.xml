@@ -1,0 +1,420 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders and directions, together with a commission for the better administration of iustice, and more perfect information of His Maiestie how, and by whom the lawes and statutes tending to the reliefe of the poore, the well ordering and training vp of youth in trades, and the reformation of disorders and disordered persons, are executed throughout the kingdome: which His royall Maiestie hath commanded to be published and inquired of, by the body of his Priuie Councell, whom he hath made principall commissioners for this purpose.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1631</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13201</idno>
+            <idno type="STC">STC 9252.2</idno>
+            <idno type="STC">ESTC S101026</idno>
+            <idno type="EEBO-CITATION">99836851</idno>
+            <idno type="PROQUEST">99836851</idno>
+            <idno type="VID">178404</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B13201)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178404)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1659:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders and directions, together with a commission for the better administration of iustice, and more perfect information of His Maiestie how, and by whom the lawes and statutes tending to the reliefe of the poore, the well ordering and training vp of youth in trades, and the reformation of disorders and disordered persons, are executed throughout the kingdome: which His royall Maiestie hath commanded to be published and inquired of, by the body of his Priuie Councell, whom he hath made principall commissioners for this purpose.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>[4], 33, [23] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1630 [i.e. 1631]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: VVestminster the fift day of Ianuary, in the sixt yeere of our reigne.</note>
+                  <note>The first leaf contains large signature-mark "A" in part of a woodcut frame.</note>
+                  <note>With a final colophon leaf.</note>
+                  <note>The year date is given according to Lady Day dating.</note>
+                  <note>In this edition, D3r line 1 has "Commaund". Most pages are in two or three settings.</note>
+                  <note>Identified as STC 9252 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor laws --  Great Britain --  Early works to 1800.</term>
+               <term>Vagrancy --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178404:1"/>
+            <pb facs="tcp:178404:1"/>
+            <pb facs="tcp:178404:2"/>
+            <pb facs="tcp:178404:2"/>
+            <pb facs="tcp:178404:3"/>
+            <pb facs="tcp:178404:3"/>
+            <p>ORDERS AND DIRECTIONS, Together With a Commiſsion for the better Adminiſtration of Iuſtice, and more per<g ref="char:EOLhyphen"/>fect Information of His MAIESTIE;</p>
+            <p>
+               <hi>How, and by whom the Lawes and Statutes tending to</hi> the reliefe of the Poore, the well ordering and training vp of youth in Trades, and the reforma<g ref="char:EOLhyphen"/>tion of Diſorders and diſordered perſons, are executed throughout the Kingdome:</p>
+            <p>Which His Royall MAIESTIE hath commanded to be Publiſhed and Inquired of, by the Body of His Priuie Councell, whom He hath made principall Commiſſioners for this purpoſe.</p>
+            <p>Imprinted at London by ROBERT BARKER, Printer to the Kings moſt Excellent MA<g ref="char:EOLhyphen"/>IESTIE: And by the Aſſignes of IOHN BILL. 1630.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:178404:4"/>
+            <p>
+               <figure>
+                  <figDesc>woodcut of the English coat of arms, 1630</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="commission">
+            <pb n="1" facs="tcp:178404:4"/>
+            <head>A Commiſsion to the Lords, and others of the Priuie Councell, for putting in execution of the Lawes and Statutes for reliefe of the poore, puniſh<g ref="char:EOLhyphen"/>ment of Rogues, and imployment of gifts to charitable vſes, &amp;c.</head>
+            <div type="addressees">
+               <p>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES</hi> by the grace of GOD King of <hi>England, Scot<g ref="char:EOLhyphen"/>land, France,</hi> &amp; <hi>Ireland,</hi> Defen<g ref="char:EOLhyphen"/>der of the Faith, &amp;c.</p>
+               <p>To the moſt Reuerend Father
+<pb n="2" facs="tcp:178404:5"/>in God, Our right truſtie and wel<g ref="char:EOLhyphen"/>beloued Counſellor, <hi>GEORGE</hi> Lord Archbiſhop of <hi>Canterbu<g ref="char:EOLhyphen"/>ry,</hi> Primate and Metropolitane of all <hi>England.</hi>
+               </p>
+               <p>And to Our right truſtie and welbeloued Counſellor <hi>THOMAS</hi> Lord <hi>COVENTRIE,</hi> Lord Kee<g ref="char:EOLhyphen"/>per of Our great Seale of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+               <p>And alſo to the right Reue<g ref="char:EOLhyphen"/>rend Father in GOD, Our right truſtie and welbeloued Counſellor, <hi>SAMVEL</hi> Lord Archbiſhop of <hi>Yorke,</hi> Primate and Metropoli<g ref="char:EOLhyphen"/>tane of <hi>England.</hi>
+               </p>
+               <pb n="3" facs="tcp:178404:5"/>
+               <p>And likewiſe to Our right truſtie and welbeloued Counſellor <hi>RI<g ref="char:EOLhyphen"/>CHARD</hi> Lord <hi>WESTON,</hi> Our high Treaſurer of <hi>England.</hi>
+               </p>
+               <p>And alſo to Our right truſtie and right welbeloued Couſins and Counſellors, <hi>EDVVARD</hi> Viſcount <hi>CONVVAY,</hi> Lord Preſident of Our Priuy Councell.</p>
+               <p>
+                  <hi>HENRY</hi> Earle of <hi>Manche<g ref="char:EOLhyphen"/>ſter,</hi> keeper of Our Priuy Seale.</p>
+               <p>
+                  <hi>ROBERT</hi> Earle of <hi>Lindſey,</hi> Lord Great Chamberlaine of <hi>England.</hi>
+               </p>
+               <pb n="4" facs="tcp:178404:6"/>
+               <p>
+                  <hi>THOMAS</hi> Earle of <hi>Arun<g ref="char:EOLhyphen"/>del</hi> and <hi>Surrey,</hi> Earle Marſhal of <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>PHILIP</hi> Earle of <hi>Pembroke</hi> and <hi>Mountgomery</hi> Lord Cham<g ref="char:EOLhyphen"/>berlaine of Our Houſhold.</p>
+               <p>
+                  <hi>THEOPHILVS</hi> Earle of <hi>Suffolke,</hi> Lord Warden of our <hi>Cinque-Ports.</hi>
+               </p>
+               <p>
+                  <hi>EDVVARD</hi> Earle of <hi>Dorſet,</hi> Lord Chamberlaine to our deareſt Conſort the Queene.</p>
+               <p>
+                  <hi>WILLIAM</hi> Earle of <hi>Saliſ<g ref="char:EOLhyphen"/>bury.</hi>
+               </p>
+               <pb n="5" facs="tcp:178404:6"/>
+               <p>
+                  <hi>WILLIAM</hi> Earle of <hi>Exeſter.</hi>
+               </p>
+               <p>
+                  <hi>IOHN</hi> Earle of <hi>Bridge<g ref="char:EOLhyphen"/>water.</hi>
+               </p>
+               <p>
+                  <hi>IAMES</hi> Earle of <hi>Carlile.</hi>
+               </p>
+               <p>
+                  <hi>HENRY</hi> Earle of <hi>Holland.</hi>
+               </p>
+               <p>
+                  <hi>WILLIAM</hi> Earle of <hi>Ban<g ref="char:EOLhyphen"/>bury.</hi>
+               </p>
+               <p>
+                  <hi>HENRY</hi> Earle of <hi>Danby.</hi>
+               </p>
+               <p>
+                  <hi>VVILLIAM</hi> Earle of <hi>Mor<g ref="char:EOLhyphen"/>ton.</hi>
+               </p>
+               <p>
+                  <hi>THOMAS</hi> Earle of <hi>Kelly.</hi>
+               </p>
+               <pb n="6" facs="tcp:178404:7"/>
+               <p>
+                  <hi>EDVVARD</hi> Viſcount <hi>Wim<g ref="char:EOLhyphen"/>bledon.</hi>
+               </p>
+               <p>
+                  <hi>DVDLEY</hi> 
+                  <g ref="char:V">Ʋ</g>iſcount <hi>Dorche<g ref="char:EOLhyphen"/>ſter</hi> one of Our principall Secreta<g ref="char:EOLhyphen"/>ries of State.</p>
+               <p>
+                  <hi>THOMAS</hi> 
+                  <g ref="char:V">Ʋ</g>iſcount <hi>Went<g ref="char:EOLhyphen"/>worth,</hi> Lord Preſident of Our Councell in the North parts.</p>
+               <p>
+                  <hi>OLIVER</hi> Viſcount <hi>Grandi<g ref="char:EOLhyphen"/>ſon.</hi>
+               </p>
+               <p>
+                  <hi>HENRY</hi> 
+                  <g ref="char:V">Ʋ</g>iſcount <hi>Falke<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+               <p>And likewiſe to the Reue<g ref="char:EOLhyphen"/>rend
+<pb n="7" facs="tcp:178404:7"/>Father in God Our right tru<g ref="char:EOLhyphen"/>ſtie and welbeloued Counſellours, <hi>WILLIAM</hi> Lord Biſhop of <hi>London.</hi>
+               </p>
+               <p>
+                  <hi>RICHARD</hi> Lord Biſhop of <hi>Wincheſter.</hi>
+               </p>
+               <p>And alſo to Our right truſtie and welbeloued Counſellors, <hi>EDWARD</hi> Lord <hi>Newburgh,</hi> Chancellour of our Duchy of <hi>Lancaſter.</hi>
+               </p>
+               <p>Sir <hi>THOMAS EDMVNDS,</hi> Knight, Treaſurer of Our Hou<g ref="char:EOLhyphen"/>ſhold.</p>
+               <p>Sir <hi>HENRY VANE,</hi> Knight,
+<pb n="8" facs="tcp:178404:8"/>Comptroller of Our Houſhold.</p>
+               <p>Sir <hi>THOMAS IERMYN,</hi> Knight, Vice-Chamberlaine of Our Houſhold.</p>
+               <p>Sir <hi>ROBERT NAVNTON,</hi> Knight, Maſter of Our Court of Wards and Liueries.</p>
+               <p>Sir <hi>IOHN COKE,</hi> Knight, one other of Our principall Secre<g ref="char:EOLhyphen"/>taries of State.</p>
+               <p>Sir <hi>FRANCIS COTTING<g ref="char:EOLhyphen"/>TON,</hi> Baronet, Chancellor of Our Exchequer.</p>
+               <pb n="9" facs="tcp:178404:8"/>
+               <p>Sir <hi>IVLIVS CAESAR,</hi> Knight, Maſter of the Rolles.</p>
+               <p>And Sir <hi>WILLIAM ALEXANDER,</hi> Knight, gree<g ref="char:EOLhyphen"/>ting.</p>
+            </div>
+            <div type="text">
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas diuers good Lawes and Statutes, moſt neceſſary for theſe times, haue, du<g ref="char:EOLhyphen"/>ring the happie Reigne of Queene <hi>ELIZABETH,</hi> and of Our late Father of bleſſed memorie, and ſince our comming to the Crowne of <hi>England,</hi> been with great wiſe<g ref="char:EOLhyphen"/>dome, peitie, and policie, made and enacted in Parliament, aſwell for
+<pb n="10" facs="tcp:178404:9"/>the charitable reliefe of aged and impotent poore people, not able by their labours to get their liuings and for the training vp of Youth in honest and profitable Trades and Myſteries, by putting them forth to be Apprentices, as alſo for the ſetting to worke of idle perſons, who being of abilitie to worke, in ſome kinde or other, doe neuerthe<g ref="char:EOLhyphen"/>leſſe, refuſe to labour, and either wander vp and downe the Citie and Countrey begging, or which is worſe, maintaine themſelues by filching and ſtealing; And for the puniſh<g ref="char:EOLhyphen"/>ment of ſundry Rogues and Vaga<g ref="char:EOLhyphen"/>bonds, and ſetting of them to worke: And for the ſuppreſsing of that o<g ref="char:EOLhyphen"/>dious
+<pb n="11" facs="tcp:178404:9"/>and loathſome ſinne of Drun<g ref="char:EOLhyphen"/>kenneſſe; And the repreſsing of idle<g ref="char:EOLhyphen"/>neſſe, the roote of ſo many euils: The due execution of which, and the like lawes and Statutes, would preuent and cut off many offences and crimes of high nature.</p>
+               <p>ANd whereas we are infor<g ref="char:EOLhyphen"/>med that the defect of the exe<g ref="char:EOLhyphen"/>cution of the ſaid good and politique Lawes and Conſtitutions in that behalfe made, proceedeth eſpicial<g ref="char:EOLhyphen"/>ly from the neglect of duetie in ſome of Our Iuſtices of the Peace and o<g ref="char:EOLhyphen"/>ther Officers, Magiſtrates, and Miniſters of the Peace, within the ſeuerall Counties, Cities and townes
+<pb n="12" facs="tcp:178404:10"/>Corporate of this our Realme of <hi>England,</hi> and Dominion of <hi>Wales,</hi> to whom the care and trust of ſeeing the ſaid Lawes to be put in execution, is by the ſayd Lawes principally co<g ref="char:cmbAbbrStroke">̄</g>mitted, which remiſſeneſſe &amp; neglect of duty doth grow and ariſe from this, That by the moſt of the ſayd Lawes, there are little or no Penalties or Forfcitures at all inflicted vpon the ſaid Iuſtices of Peace, Magi<g ref="char:EOLhyphen"/>ſtrates, Officers and Miniſters for not performing their duties in that behalfe, or if any be, yet partly by reaſon of the ſmallneſſe thereof, and partly by reaſon of their power and authoritie in their ſeuerall pla<g ref="char:EOLhyphen"/>ces,
+<pb n="13" facs="tcp:178404:10"/>whereby they hold others vn<g ref="char:EOLhyphen"/>der them in awe, there are few or no Complaints or Informations made of the neglects and want of due execution of the Offices of the ſaid Iustices and other Mini<g ref="char:EOLhyphen"/>ſters; and although the care and di<g ref="char:EOLhyphen"/>ligence of our Iudges and Iuſtices of Aſsiſe be neuer ſo great, yet by rea<g ref="char:EOLhyphen"/>ſon of the ſhortneſſe of their Aſsizes and Seſsions in euery County, and multiplicitie of buſineſſe, they nei<g ref="char:EOLhyphen"/>ther haue due information of the ſaid neglects, nor in thoſe times, can take ſuch exact courſes as were re<g ref="char:EOLhyphen"/>quiſite for redreſse of ſuch generall abuſes and inconueniences ſo high<g ref="char:EOLhyphen"/>ly importing the publique good of
+<pb n="14" facs="tcp:178404:11"/>this Our Realme, by reaſon whereof the ſaid Juſtices of Peace, Ma<g ref="char:EOLhyphen"/>giſtrates, Officers and Ministers, are now of late in moſt parts of this Our Kingdome growne ſecure in their ſaid negligence, and the ſaid politique and neceſſarie Lawes and Statutes laid aſide or little regar<g ref="char:EOLhyphen"/>ded as Lawes of ſmall vſe and con<g ref="char:EOLhyphen"/>ſequence, whereas vpon the preſent making of the ſaid Lawes, the ſame being then duely executed, as alſo at this day in ſome Counties and parts of this Our Kingdome, where ſome Iuſtices of Peace and other Magiſtrates doe duely and dili<g ref="char:EOLhyphen"/>gently execute the ſame, there eui<g ref="char:EOLhyphen"/>dently appeareth great reformati<g ref="char:EOLhyphen"/>on,
+<pb n="15" facs="tcp:178404:11"/>benefit and ſafety to redound to the Commonwealth, And likewiſe when as there was care taken, and diligence vſed to haue the Lawes concerning charitable vſes, wel exe<g ref="char:EOLhyphen"/>cuted, and all pious gifts to bee im<g ref="char:EOLhyphen"/>ployed according to the good intent of the Donors, theſe poore people were better relieued then now they are: All which We taking into Our Princely care, for the preſeruation of the common Peace of this Realme, the performance of mens pious intentions in their gifts of Charitie, and the generall good and quiet of Our Subiects.</p>
+               <p>After long and mature delibe<g ref="char:EOLhyphen"/>ration, finding that there is no bet<g ref="char:EOLhyphen"/>ter
+<pb n="16" facs="tcp:178404:12"/>wayes or meanes to haue the ſaid Lawes and Statutes put in full execution, then by committing the truſt and ouerſight thereof to the ſpeciall care and industrie of cer<g ref="char:EOLhyphen"/>taine perſons of principall Place, Dignitie and Order neere vnto Our Perſon; who vpon their dili<g ref="char:EOLhyphen"/>gent inquirie how the ſaid Lawes and Statutes are put in execution, may be able vpon all occaſions from time to time to giue <g ref="char:V">Ʋ</g>s particular information thereof, and by their approoued Wiſedomes, experience and Iudgements, giue Directions and Inſtructions from time to time for the better execution of the ſaid Statutes.</p>
+               <pb n="17" facs="tcp:178404:12"/>
+               <p>Know ye therefore that Wee out of that long experience and full aſ<g ref="char:EOLhyphen"/>ſurance Wee haue had of the great integritie, wiſedome, fidelitie and induſtrie of you, and euery of you; Haue conſtituted, authorized and appointed you to bee Our Commiſ<g ref="char:EOLhyphen"/>ſioners, and by theſe preſents doe conſtitute, authoriſe and appoint, and ſtrictly require you, or any foure or more of you Our Commiſsioners either by examination vpon Oath, or without Oath, or by all and euery ſuch good and lawfull meanes as to you, or any foure or more of you, in your Wiſedomes and Iudgements ſhal ſeeme conuenient and requiſite from time to time from henceforth
+<pb n="18" facs="tcp:178404:13"/>to make Inquirie, and thereby to in<g ref="char:EOLhyphen"/>forme your ſelues how all and euery the Lawes and Statutes now in force, which any way concerne the reliefe of impotent or poore people, the binding out of Apprentices, the ſetting to worke of poore children, and ſuch other poore people, as be<g ref="char:EOLhyphen"/>ing able or willing to worke, haue no ſtocke or meanes to imploy them<g ref="char:EOLhyphen"/>ſelues; The compelling and forcing ſuch lazie &amp; idle perſons to worke, as being of bodies able and ſtrong, doe neuertheleſſe refuſe to la<g ref="char:EOLhyphen"/>bour; the maintenance, gouerne<g ref="char:EOLhyphen"/>ment, and well ordering of houſes of Correction and other places for reliefe of poore indigent and
+<pb n="19" facs="tcp:178404:13"/>impotent people, the Rating, Col<g ref="char:EOLhyphen"/>lecting, and imployment of all ſuch Summes, as by the Statute of the three and fourtieth of <hi>ELIZA<g ref="char:EOLhyphen"/>BETH,</hi> are appointed for the re<g ref="char:EOLhyphen"/>liefe of Souldiers and Mariners, the puniſhment or ſetting on worke of Rogues and <g ref="char:V">Ʋ</g>agabonds: And all Lawes and Statutes now in force for the repreſsing of Drun<g ref="char:EOLhyphen"/>kenneſſe and Idleneſſe, the refor<g ref="char:EOLhyphen"/>ming of abuſes committed in Innes and Alehouſes, the abridging of the number of Alehouſes, and the well ordering of ſuch as be licenſed, the keeping of Watches and Wards duely, and how other publique ſer<g ref="char:EOLhyphen"/>uices for God, the King, and the
+<pb n="20" facs="tcp:178404:14"/>Common-wealth, are put in practice and executed.</p>
+               <p>To which end and purpoſe, to you Our Commiſsioners, or any ſixe or more of you, We giue full power and authoritie from time to time hereafter, to giue ſuch Directions and Inſtructions, and by all other good and lawfull meanes to ſet downe, and giue ſuch Orders and Directions, as that all and euery the ſaid Lawes and other neceſſa<g ref="char:EOLhyphen"/>rie Statutes may bee duely and effe<g ref="char:EOLhyphen"/>ctually executed, and the Paines and Penalties thereof leuied and imployed, according to the purport and true meaning of the ſame Lawes.</p>
+               <pb n="21" facs="tcp:178404:14"/>
+               <p>And whereas no Nation of the world hath prouided more libe<g ref="char:EOLhyphen"/>rally, or ordeined better Lawes for due imployment of Lands, Goods, and Stockes of money, giuen to cha<g ref="char:EOLhyphen"/>ritable vſes, then this Our King<g ref="char:EOLhyphen"/>dome of <hi>England</hi> hath done: Yet neuertheleſſe the ſaid Bounties and charitable Gifts haue not beene im<g ref="char:EOLhyphen"/>ployed according to the minde and intent of the Giuers, by reaſon of ſome Deuices, Fraudes, Breach of Truſt, Aime at priuate Gaine, and partly by the negligence of thoſe that haue beene truſted to performe the ſame.</p>
+               <p>Therefore Our Will and ex<g ref="char:EOLhyphen"/>preſſe Pleaſure is, That thoſe Sta<g ref="char:EOLhyphen"/>tutes
+<pb n="22" facs="tcp:178404:15"/>of the thirty ninth and fourtie third of <hi>Elizabeth,</hi> and all other Lawes and Statutes concerning Hoſpitals, Almes-houſes, <hi>Meiſons de Dieu,</hi> and other pious Donati<g ref="char:EOLhyphen"/>ons, Collections, or publike Gifts for the benefit of the Poore, or publike Workes, be ſtrictly inquired and put in execution. And all Deeds of Foundations, Charters, Wills, Deuices, Diſpoſitions of Lands, Goods, Annuities, or Rents, giuen, appointed, or intended to any the Houſes aforeſaid, or to any cha<g ref="char:EOLhyphen"/>ritable vſe or publike Worke, be di<g ref="char:EOLhyphen"/>ligently ſought out and diſcouered, to the end there may bee an imploy<g ref="char:EOLhyphen"/>ment of all the Profits, according to
+<pb n="23" facs="tcp:178404:15"/>the Will and Minde of the Do<g ref="char:EOLhyphen"/>nors or Founders.</p>
+               <p>And Wee doe further by theſe Preſents, giue full power and au<g ref="char:EOLhyphen"/>thority vnto you, or any ſixe or more of you, to call vnto you for your aſsiſtance in the Premiſſes, when you ſhall ſee it needfull, all, or any of Our Iuſtices of Aſsize, as often as you ſhall ſee cauſe, and to giue ſuch Directions and Inſtructions by your Letters, or otherwiſe, as well to Our ſaid Iuſtices of Aſſize, <hi>Oyer</hi> and <hi>Termyner,</hi> and Gaole deliuery, for their ſeuerall Circuits: As alſo to Our Iuſtices, Maiors, Bayliffes, and other head Offi<g ref="char:EOLhyphen"/>cers, within Cities and Boroughs,
+<pb n="24" facs="tcp:178404:16"/>Clerkes of the Aſsiſe and Seſsions, and other Officers and Miniſters within Our ſeuerall Counties and Shires of this our Realme of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and Dominion of <hi>Wales,</hi> and the ſeuerall Diuiſions of the ſame, as to you, or any ſixe or more of you in your wiſedomes ſhall ſeeme meete and requiſite, and ſhall bee agreeable to the Lawes and Sta<g ref="char:EOLhyphen"/>tutes of this Our Realme, for the better execution of the Lawes and Statutes in the time to come. All which Directions, Inſtructions, and Orders, at any time or times heere<g ref="char:EOLhyphen"/>after ſo to be made or taken by you, or any ſixe or more of you, by force of theſe preſents; Wee Will and
+<pb n="25" facs="tcp:178404:16"/>ſtraitly Charge and Commaund by theſe preſents, to bee ſincerely and duely from time to time, obeyed, ob<g ref="char:EOLhyphen"/>ſerued, and kept, by all and euery Officer and Officers, Iuſtice and Iuſtices, Perſon and Perſons, to whom it ſhall appertaine.</p>
+               <p>And We do hereby further will &amp; require you, that you or any foure or more of you, doe from time to time giue vnto Vs particular and true in<g ref="char:EOLhyphen"/>formation of the care and induſtry of Our Juſtices of Peace in their ſeuerall Diuiſions, Maiors, Bayliffes, and head Officers, in their ſeuerall Cities, and Townes Corporate, as vpon the ſayd inqui<g ref="char:EOLhyphen"/>rie you ſhall finde to bee diligent in
+<pb n="26" facs="tcp:178404:17"/>putting the ſaid Lawes, Statutes, Orders and Directions in executi<g ref="char:EOLhyphen"/>on, That ſo by their ſeruice and your report, they appearing to de<g ref="char:EOLhyphen"/>ſerue well of their King and Coun<g ref="char:EOLhyphen"/>trey, may receiue not onely good ac<g ref="char:EOLhyphen"/>ceptance at Our hands, but all due incouragement and comfort to con<g ref="char:EOLhyphen"/>tinue in their well doings; And if contrariwiſe you ſhall finde any of Our ſaid Iustices of Peace, or other the perſons before named to be neg<g ref="char:EOLhyphen"/>ligent and remiſſe in their ſeuerall places and duties touching the per<g ref="char:EOLhyphen"/>formance and execution of the ſaid Lawes and Statutes committed to their Charge, or the Orders and Directions giuen by you, or any
+<pb n="27" facs="tcp:178404:17"/>ſixe of you for the better execution of the ſaid Statutes: Then Our pleaſure is, that you doe likewiſe cer<g ref="char:EOLhyphen"/>tifie the names of ſuch as you ſhall finde ſo remiſſe and negligent, that accordingly order may be taken for their remouing and diſplacing out of the Commiſsion of the Peace, as men vnworthy of their ſaid Trust and Places; As alſo deſeruing to receiue ſuch further Puniſhment in Our Court of Starchamber, or otherwiſe as may be by Law inflict<g ref="char:EOLhyphen"/>ed vpon them.</p>
+               <p>And further wee doe by theſe Preſents giue vnto you, or any ſixe or more of you, full power and au<g ref="char:EOLhyphen"/>thoritie to doe and execute all and
+<pb n="28" facs="tcp:178404:18"/>euery other lawfull and neceſſarie Act and Acts, thing and things for the better and more due Execution of the Premiſſes or any of them, as you or any ſixe, or more of you, ſhall in your Wiſedomes and Iudge<g ref="char:EOLhyphen"/>ments thinke to bee fit and conue<g ref="char:EOLhyphen"/>nient.</p>
+               <p>And becauſe you that are at<g ref="char:EOLhyphen"/>tendants vpon Our Perſon, or o<g ref="char:EOLhyphen"/>therwiſe imployed in Our Seruices cannot at all times bee in Perſon in the ſeuerall Shires of this Our Kingdome, to execute this Our Commiſsion in ſuch ſort as wee haue appoynted it: And for that it will be very fit and requiſite for you to haue perſons of Truſt vnder you,
+<pb n="29" facs="tcp:178404:18"/>who may faithfully aſsiſt you in the execution of this Our Com<g ref="char:EOLhyphen"/>miſsion.</p>
+               <p>Wee doe therefore giue vnto you for your better Aide and Aſsiſtance, and the better performance of this Our Seruice, full power and autho<g ref="char:EOLhyphen"/>ritie from time to time, to Aſsigne, Appoint and Conſtitute by your wri<g ref="char:EOLhyphen"/>ting vnder your Hands and Seales or the Hands and Seales of any ſixe, or more of you, ſuch ſuffici<g ref="char:EOLhyphen"/>ent meete perſons as you, or any ſixe of you, in your diſcretions ſhall from time to time thinke fit and ap<g ref="char:EOLhyphen"/>point to bee your Deputies in euery or any Countie, Citie, Borough or towne Corporate of this Our King<g ref="char:EOLhyphen"/>dome
+<pb n="30" facs="tcp:178404:19"/>of <hi>England,</hi> or Dominion of <hi>Wales.</hi>
+               </p>
+               <p>And Wee doe giue vnto ſuch perſons, ſo to be by you deputed, aſ<g ref="char:EOLhyphen"/>ſigned, and appointed, as aforeſaid, or to any two, three, or more of them full power and authority to doe and execute in our ſaid Counties, Cities, Boroughs, and Townes Corpo<g ref="char:EOLhyphen"/>rate, as well within Liberties as without; All and euery thing and things, which by vertue of this Our Commiſsion, is to you our principall Commiſsioners intruſted and com<g ref="char:EOLhyphen"/>mitted, or which you, or any of you Our Commiſsioners, if you were perſonally preſent, might or ought to doe; They your ſaid Deputies
+<pb n="31" facs="tcp:178404:19"/>purſuing ſuch Directions and Jn<g ref="char:EOLhyphen"/>ſtructions from time to time as you or any ſixe of you ſhall giue vnto them in writing; And the better to enable them ſo to doe, you ſhall de<g ref="char:EOLhyphen"/>liuer to ſuch deputies as you ſhall make in euery Countie, Citie, or Towne corporate as aforeſaid, a duplicate, or true tranſcript of this Our Commiſsion, ſubſcribed with your hands, or vnder the hands of ſixe of you at the leaſt.</p>
+               <p>And Wee doe further by the te<g ref="char:EOLhyphen"/>nour of theſe preſents, will and com<g ref="char:EOLhyphen"/>mand, and doe giue full power and authoritie to Our Lord Chancelour, or Lord Keeper of Our great Seale for the time being, to cauſe ſeuerall
+<pb n="32" facs="tcp:178404:20"/>Commiſsions to be made foorth, vn<g ref="char:EOLhyphen"/>der Our great Seale of <hi>England,</hi> to ſuch perſons of trust and quality, as any ſixe, or more of you ſhall from time to time nominate vnto him, and ſhall ſo ſignifie vnto him by writing vnder your hands to the ſame tenour and effect, in euery materiall thing, as in theſe Our Letters Patents is expreſſed, with a clauſe to bee inſer<g ref="char:EOLhyphen"/>ted in euery ſuch Commiſsion and Commiſsions, commanding ſuch perſons ſo to be nominated, that they certifie all their proceedings there<g ref="char:EOLhyphen"/>vpon to you Our foreſaid Commiſsi<g ref="char:EOLhyphen"/>oners, or to any ſixe of you, at ſuch times and places, as you, or any ſixe of you ſhall appoint.</p>
+               <pb n="33" facs="tcp:178404:20"/>
+               <closer>
+                  <dateline>Jn witneſſe whereof, Wee haue cau<g ref="char:EOLhyphen"/>ſed theſe Our Letters to bee made Patents: Witneſſe Our ſelfe at <hi>Weſtminſter</hi> 
+                     <date> the fift day of <hi>Ianuary,</hi> in the ſixt yeere of Our Reigne.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="orders_and_directions">
+            <div type="preface">
+               <pb facs="tcp:178404:21"/>
+               <head>Preface.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Or the better admini<g ref="char:EOLhyphen"/>ſtration of Iuſtice, and more perfect Informati<g ref="char:EOLhyphen"/>on of His Maieſty, how, and by whom the Lawes and Statutes tending to the reliefe of the poore, and the reformation of diſ<g ref="char:EOLhyphen"/>orders and diſordered perſons are exe<g ref="char:EOLhyphen"/>cuted throughout the Kingdome; His Royall Maieſtie hath Commanded this Commiſſion aforeſaid, together with theſe Orders and Directions follow<g ref="char:EOLhyphen"/>ing, to be publiſhed by the Body of His Priuie Councell, whom Hee hath made principall Commiſſio<g ref="char:EOLhyphen"/>ners for this pur<g ref="char:EOLhyphen"/>poſe.</p>
+            </div>
+            <div type="orders">
+               <pb facs="tcp:178404:21"/>
+               <head>ORDERS.</head>
+               <div n="1" type="order">
+                  <head>I.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>HAT the Iuſtices of Peace of euery Shire within the Realme doe diuide themſelues, and allot amongſt themſelues what Iuſtices of the Peace, and what Hundreds ſhall attend monethly at ſome certaine places of the Shire. And at this day and place, the High Conſtables, Petty-Con<g ref="char:EOLhyphen"/>ſtables, and Churchwardens, and Ouerſeers for the Poore of
+<pb facs="tcp:178404:22"/>thoſe Hundreds, ſhall attend the ſaid Iuſtices. And there in<g ref="char:EOLhyphen"/>quirie ſhall be made, and Infor<g ref="char:EOLhyphen"/>mation taken by the Iuſtices, how euery of theſe Officers in their ſeuerall places haue done their duties in Execution of the Lawes mentioned in the Com<g ref="char:EOLhyphen"/>miſsion annexed, and what per<g ref="char:EOLhyphen"/>ſons haue offended againſt any of the ſaid Lawes.</p>
+               </div>
+               <div n="2" type="order">
+                  <head>II.</head>
+                  <p>WHere neglect or defect is found in any of the ſaid Officers, in making their Preſentments, condigne pu<g ref="char:EOLhyphen"/>niſhment to be inflicted vpon
+<pb facs="tcp:178404:22"/>them by the Iuſtices according to Law.</p>
+               </div>
+               <div n="3" type="order">
+                  <head>III.</head>
+                  <p>WHen offences are pre<g ref="char:EOLhyphen"/>ſented at one meeting, then the penalties of the Lawes offended, to bee leauied and brought to the Iuſtices at their next meeting.</p>
+               </div>
+               <div n="4" type="order">
+                  <head>IIII.</head>
+                  <p>WHen the penalties are leauied, the Iuſtices are to take care that the ſame be imployed accordingly as by the Statutes are appointed.</p>
+               </div>
+               <div n="5" type="order">
+                  <pb facs="tcp:178404:23"/>
+                  <head>V.</head>
+                  <p>FOr incouragement to men that doe informe and pro<g ref="char:EOLhyphen"/>ſecute others for offending a<g ref="char:EOLhyphen"/>gainſt theſe Lawes or any of them, libertie to bee left to the Iuſtices of Peace that doe meete to reward the Informer or Proſecutor, out of part of the money leauied vpon his, or their Preſentments, or Infor<g ref="char:EOLhyphen"/>mation.</p>
+                  <p>
+                     <hi>Though the Statute doe not preſcribe this, yet this is not againſt the Law that giues the penaltie to the
+<pb facs="tcp:178404:23"/>Poore, which penaltie nor no part thereof would elſe come vnto the poore but by this meanes.</hi>
+                  </p>
+               </div>
+               <div n="6" type="order">
+                  <head>VI.</head>
+                  <p>THat the ſeuerall Iuſtices of Peace of euery Shire, doe once euery three moneths cer<g ref="char:EOLhyphen"/>tifie an account in Writing to the high Sheriffe of the Coun<g ref="char:EOLhyphen"/>tie, of their proceedings in this way, whom they haue puni<g ref="char:EOLhyphen"/>ſhed, what they haue leuyed, and how they haue imploy<g ref="char:EOLhyphen"/>ed it.</p>
+               </div>
+               <div n="7" type="order">
+                  <pb facs="tcp:178404:24"/>
+                  <head>VII.</head>
+                  <p>THat the High Sheriffe within foureteene dayes after this Account deliuered, do ſend the ſame ouer to the Iu<g ref="char:EOLhyphen"/>ſtices of Aſsize for that County, or to one of them, and the Iu<g ref="char:EOLhyphen"/>ſtice or Iuſtices that receiue the ſame, to certifie it in the begin<g ref="char:EOLhyphen"/>ning of euery Terme next after, to the Lords Commiſsioners. And if any of the Iuſtices of Peace ſhall faile to make ſuch account to the Sheriffe, then the Sheriffe ſhall certifie ſuch de<g ref="char:EOLhyphen"/>fault to the Lords Commiſsio<g ref="char:EOLhyphen"/>ners.</p>
+               </div>
+               <div n="8" type="order">
+                  <pb facs="tcp:178404:24"/>
+                  <head>VIII.</head>
+                  <p>THe Iuſtices of Aſsize in e<g ref="char:EOLhyphen"/>uery Circuite, are to en<g ref="char:EOLhyphen"/>quire, and ſpecially to marke, what Iuſtices of the Peace are carefull and diligent in executi<g ref="char:EOLhyphen"/>on of theſe Lawes, and the Di<g ref="char:EOLhyphen"/>rections giuen, and who are neg<g ref="char:EOLhyphen"/>ligent and remiſſe. And what other things of note happen in their Circuits, to make report thereof to the King, vpon their returne from their Circuits e<g ref="char:EOLhyphen"/>uery halfe yeere.</p>
+               </div>
+            </div>
+            <div type="directions">
+               <pb facs="tcp:178404:25"/>
+               <pb facs="tcp:178404:25"/>
+               <head>DIRECTIONS.</head>
+               <div n="1" type="direction">
+                  <head>I.</head>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hat the Lords of Manors and Towns, take care that their Tenants, and the pa<g ref="char:EOLhyphen"/>riſhoners of euery Towne may bee releeued by worke, or otherwiſe at home, and not ſuffered to ſtraggle, and beg vp and downe in their pa<g ref="char:EOLhyphen"/>riſhes.</p>
+               </div>
+               <div n="2" type="direction">
+                  <head>II.</head>
+                  <p>THat Stewards to Lords and Gentlemen, in keeping their
+<pb facs="tcp:178404:26"/>Leetes twice a yeere, doe ſpecially enquire vpon thoſe Articles that tend to the reformation, or puniſh<g ref="char:EOLhyphen"/>ment of common offences and abu<g ref="char:EOLhyphen"/>ſes: As of Bakers and Brewers, for breaking of Aſsizes: Of Fore<g ref="char:EOLhyphen"/>ſtallers, and Regraters: Againſt Tradeſmen of all ſorts, for ſelling with vnder weights, or at exceſsiue priſes, or things vnwholeſome, or things made in deceipt: Of people, breakers of houſes, common theeues, and their Receiuers; haunters of Tauerns, or Alehouſes; thoſe that goe in good clothes, and fare well, and none knowes whereof they liue; thoſe that bee night-walkers; buil<g ref="char:EOLhyphen"/>ders of Cottages, and takers in of
+<pb facs="tcp:178404:26"/>Inmates; offences of <g ref="char:V">Ʋ</g>ictuallers, Artificers, Workemen and Labou<g ref="char:EOLhyphen"/>rers.</p>
+               </div>
+               <div n="3" type="direction">
+                  <head>III.</head>
+                  <p>THat the poore children in e<g ref="char:EOLhyphen"/>uery Pariſh be put forth Ap<g ref="char:EOLhyphen"/>prentices to husbandry, and other handy-crafts, and money to be rai<g ref="char:EOLhyphen"/>ſed in the Pariſhes for placing them, according to the Law; and if any party ſhall refuſe to take the ſaid Apprentice, being put out accor<g ref="char:EOLhyphen"/>ding to the Law; ſuch party as ſhall refuſe to take the ſaid Apprentice, to be bound ouer to the next quarter Seſsions, or Aſsiſes, and there to be
+<pb facs="tcp:178404:27"/>bound to his good behauiour, or o<g ref="char:EOLhyphen"/>therwiſe ordered, as ſhall bee found fit.</p>
+               </div>
+               <div n="4" type="direction">
+                  <head>IIII.</head>
+                  <p>THat the Statute of Labou<g ref="char:EOLhyphen"/>rers, for retaining of Ser<g ref="char:EOLhyphen"/>uants, and ordering of Wages, be<g ref="char:EOLhyphen"/>twixt the Seruant and the Ma<g ref="char:EOLhyphen"/>ſter be not deluded by priuate Con<g ref="char:EOLhyphen"/>tracts, before they come to the Sta<g ref="char:EOLhyphen"/>tutes, and the common faſhion of Eſſoyning many abſent, not to bee allowed of courſe, as is vſed.</p>
+               </div>
+               <div n="5" type="direction">
+                  <head>V.</head>
+                  <p>THat the weekely taxations for reliefe of the Poore, and
+<pb facs="tcp:178404:27"/>other purpoſes mentioned in the Statute of <hi>43. Eliz.</hi> bee in theſe times of ſcarcitie raiſed to higher Rates in euery Pariſh, then in times to fore were vſed. And Contribu<g ref="char:EOLhyphen"/>tions had from other Pariſhes, to helpe the weaker Pariſhes, eſpeci<g ref="char:EOLhyphen"/>ally from thoſe places where depo<g ref="char:EOLhyphen"/>pulations haue beene, ſome good Contribution to come, for helpe of other Pariſhes. And where any money or Stocke hath beene, or ſhall bee giuen to the reliefe of the Poore in any pariſh, ſuch Gift to be no occaſion of leſſening the Rates of the Pariſh.</p>
+               </div>
+               <div n="6" type="direction">
+                  <pb facs="tcp:178404:28"/>
+                  <head>VI.</head>
+                  <p>THat the petty Conſtables in all Pariſhes, be choſen of the abler ſort of Pariſhioners, and the office not to bee put vpon the poorer ſort, if it may be.</p>
+               </div>
+               <div n="7" type="direction">
+                  <head>VII.</head>
+                  <p>WAtches in the night, and Warding by day, and to bee appointed in euery Towne and village, for apprehenſion of rogues, and vagabonds, and for ſafety and good order.</p>
+               </div>
+               <div n="8" type="direction">
+                  <pb facs="tcp:178404:28"/>
+                  <head>VIII.</head>
+                  <p>AND becauſe it is found by dayly experience, that the re<g ref="char:EOLhyphen"/>miſſeneſſe and negligence of petty-Conſtables is a greate cauſe of the ſwarming of Rogues and Beg<g ref="char:EOLhyphen"/>gers, therefore the high Conſta<g ref="char:EOLhyphen"/>bles in their ſeuerall Diuiſions are ſpecially to be charged to looke vnto the petty-Conſtables, that they vſe diligence in their Offices, and the High Conſtables to preſent to the Iuſtices of Peace, the defaults of the petty Conſtables, for not puniſh<g ref="char:EOLhyphen"/>ing the Rogues, or not preſenting thoſe that are Relieuers of the Rogues and Beggers, the Law
+<pb facs="tcp:178404:29"/>inflicting a Penalty vpon the Con<g ref="char:EOLhyphen"/>ſtable for not puniſhing them, and vpon ſuch party as ſhall releeue them.</p>
+               </div>
+               <div n="9" type="direction">
+                  <head>IX.</head>
+                  <p>IF in any Pariſh there bee found any perſons that liue out of Ser<g ref="char:EOLhyphen"/>uice, or that liue idly and will not worke for reaſonable wages, or liue to ſpend all they haue at the Ale<g ref="char:EOLhyphen"/>houſe, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hoſe perſons to bee brought by the High Conſtables, and petty Conſtables to the Iuſtices at their meetings, there to be ordered and puniſhed as ſhall be found fit.</p>
+               </div>
+               <div n="10" type="direction">
+                  <pb facs="tcp:178404:29"/>
+                  <head>X.</head>
+                  <p>THat the Correction houſes in all Counties may bee made adioyning to the common Priſons, and the Gaoler to be made Gouer<g ref="char:EOLhyphen"/>nour of them, that ſo he may imploy to worke Priſoners committed for ſmall cauſes, and ſo they may learne honeſtly by labour, and not liue idly and miſerably long in priſon, where<g ref="char:EOLhyphen"/>by they are made worſe when they come out then they were when they went in, and where many houſes of Correction are in one County, one of them at leaſt to bee neere the Gaole.</p>
+               </div>
+               <div n="11" type="direction">
+                  <pb facs="tcp:178404:30"/>
+                  <head>XI.</head>
+                  <p>THat no man harbour Rogues in their Barnes, or Out<g ref="char:EOLhyphen"/>houſeings. And the wandring per<g ref="char:EOLhyphen"/>ſons with women and children, to giue account to the Conſtable or Juſtice of Peace, where they were marryed, and where their children were Chriſtened; for theſe people liue like Saluages, neither marry nor bury nor Chriſten, which licen<g ref="char:EOLhyphen"/>tious libertie makes ſo many delight to be Rogues and Wanderers.</p>
+               </div>
+               <div n="12" type="direction">
+                  <pb facs="tcp:178404:30"/>
+                  <head>XII.</head>
+                  <p>ANd becauſe the High wayes in all Counties of <hi>England</hi> are in great decay, partly ſo growen, for that men think there is no courſe by the Common Law, or Order from the State to amend the ſame: And the worke-dayes appointed by the Statute are ſo omitted, or idly performed, that there comes little good by them. Therefore the Iusti<g ref="char:EOLhyphen"/>ces of Peace at theſe monethly meetings, are to take ſpeciall care of: and not onely to cauſe the Sur<g ref="char:EOLhyphen"/>ueyors of the High wayes to pre<g ref="char:EOLhyphen"/>ſent the ſame; but by their owne view, to informe themſelues, that
+<pb facs="tcp:178404:31"/>at the next Quarter Seſsions after euery meeting, they may preſent all ſuch neglects, and offences (as vpon their owne view) and the Of<g ref="char:EOLhyphen"/>fenders there to bee pu<g ref="char:EOLhyphen"/>niſhed according to Law.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:178404:31"/>
+            <p>¶ Imprinted at London by ROBERT BARKER, Printer to the KINGS moſt Excellent MAIESTIE: <hi>and by the Aſsignes of</hi> IOHN BILL.</p>
+            <p>M.DC.XXX.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
